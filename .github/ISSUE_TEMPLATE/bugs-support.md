@@ -1,5 +1,5 @@
 ---
-name: 问题反馈及技术支持
+name: Bugs&Support
 about: 可以留下遇到的问题
 title: 问题反馈
 labels: ''
